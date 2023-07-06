@@ -19,7 +19,7 @@ Chg%: The percentage change in USD-INR conversion rate compared to the previous 
 click to open [Dataset](https://drive.google.com/file/d/1XbwUy_IWIwhVlyAGcoFBLEMFOEGZW0Oq/view?usp=sharing).
 
 # Files in this repository
-- [Indivisual colab]()
+- [Indivisual colab](https://github.com/Samarjeet-singh-chhabra/USD_INR_DeepLearning_Forecast/blob/main/USD_INR_LSTM_Forecast.ipynb)
 - [Dataset](https://drive.google.com/file/d/1XbwUy_IWIwhVlyAGcoFBLEMFOEGZW0Oq/view?usp=sharing)
 
 
